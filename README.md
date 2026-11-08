@@ -1,3 +1,12 @@
+<!-- tacitus-fork-status -->
+> **Retained upstream research fork.** The original project is [openai/parameter-golf](https://github.com/openai/parameter-golf).
+> This fork is preserved for inspection and evaluation. Benchmark or performance
+> claims in the upstream README below are upstream results, not new measurements
+> of this fork. No model evaluation or hosted acceptance was run in this review.
+> Original authorship and license terms remain in place.
+> Training requires separately provisioned compute; no training job was run in this review.
+<!-- /tacitus-fork-status -->
+
 # Parameter Golf — historical experiment
 
 > **Status: completed and no longer maintained.** This repository is retained as a historical fork and experiment record. It is not an active TACITUS project and should not be read as a current product or research release.
