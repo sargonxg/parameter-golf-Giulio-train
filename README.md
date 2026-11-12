@@ -9,6 +9,9 @@
 
 # Parameter Golf — historical experiment
 
+<details>
+<summary>TACITUS evaluation scope and optional original 8-bit teaching companion</summary>
+
 <!-- tacitus-practical-entry -->
 ## Purpose, code and a playable introduction
 
@@ -22,6 +25,8 @@ Study reproducible model-training constraints before deciding whether a smaller 
 
 Research: [RAG](https://arxiv.org/abs/2005.11401), [long-context evidence use](https://arxiv.org/abs/2307.03172), [GraphRAG](https://arxiv.org/abs/2404.16130). [What TACITUS borrows, adds and still needs to measure](https://github.com/sargonxg/sargonxg/blob/main/docs/RESEARCH_AND_DESIGN.md).
 <!-- /tacitus-practical-entry -->
+
+</details>
 
 
 > **Status: completed and no longer maintained.** This repository is retained as a historical fork and experiment record. It is not an active TACITUS project and should not be read as a current product or research release.
