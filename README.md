@@ -9,6 +9,21 @@
 
 # Parameter Golf — historical experiment
 
+<!-- tacitus-practical-entry -->
+## Purpose, code and a playable introduction
+
+Study reproducible model-training constraints before deciding whether a smaller model is useful for a bounded TACITUS extraction task.
+
+**Upstream evaluation fork.** Upstream Parameter Golf experiment. No new TACITUS model, training run or independent benchmark result is claimed.
+
+[Setup, code walkthrough, research & verification](TACITUS_GUIDE.md) · [Play the original 8-bit teaching adventure](tacitus-demo/index.html) · [Demo credits](tacitus-demo/CREDITS.md)
+
+![The original House of Evidence teaching adventure; synthetic case, separate from this project’s runtime](tacitus-demo/mansion.png)
+
+Research: [RAG](https://arxiv.org/abs/2005.11401), [long-context evidence use](https://arxiv.org/abs/2307.03172), [GraphRAG](https://arxiv.org/abs/2404.16130). [What TACITUS borrows, adds and still needs to measure](https://github.com/sargonxg/sargonxg/blob/main/docs/RESEARCH_AND_DESIGN.md).
+<!-- /tacitus-practical-entry -->
+
+
 > **Status: completed and no longer maintained.** This repository is retained as a historical fork and experiment record. It is not an active TACITUS project and should not be read as a current product or research release.
 
 This repository was forked from [OpenAI's Parameter Golf challenge](https://github.com/openai/parameter-golf) in March 2026 to explore small-model training and conflict-domain evaluation ideas. The upstream project remains the authoritative source for the challenge, rules, leaderboard, and current implementation.
