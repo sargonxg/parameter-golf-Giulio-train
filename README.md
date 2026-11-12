@@ -1,3 +1,5 @@
+> **Portfolio maintenance status · 12 November 2026:** historical/reference scope; no further independent product expansion is planned. [Upstream project](https://github.com/openai/parameter-golf). [Purpose, retained work, retirement gates and restoration](TACITUS_RETIREMENT.md). Repository archival is a separate checked operation; this notice alone does not claim it occurred.
+
 <!-- tacitus-fork-status -->
 > **Retained upstream research fork.** The original project is [openai/parameter-golf](https://github.com/openai/parameter-golf).
 > This fork is preserved for inspection and evaluation. Benchmark or performance
